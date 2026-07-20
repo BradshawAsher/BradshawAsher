@@ -59,8 +59,8 @@ I'm an incoming **Computer Science Direct to Major** freshman in the **Interdisc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bradshawasher&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&hide_border=true" alt="Brad's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradshawasher&layout=compact&theme=transparent&hide_border=true" alt="Brad's most used languages" />
+<img height="165" src="./profile/stats.svg" alt="Brad's GitHub statistics" />
+<img height="165" src="./profile/top-langs.svg" alt="Brad's most used languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradshawasher&theme=transparent&hide_border=true" alt="Brad's contribution streak" />
 
