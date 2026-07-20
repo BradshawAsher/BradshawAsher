@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brad</h1>
-<h3 align="center">A passionate frontend developer from the US</h3>
+<h3 align="center">I am an incoming Computer Science Direct to Major freshman in the Interdisciplinary Honors program at the University of Washington with a strong focus on systems engineering, backend data architectures, and autonomous AI agent systems. My technical background spans full-stack development and cloud infrastructure—such as building the AWS AI File Analyzer with React, .NET 8, and Azure SQL—alongside hands-on research experience prototyping tools at the UW UbiComp Lab. As a MergeWorks AI Co-Builder Fellow, I actively work on agentic workflows and advanced data orchestration using the Model Context Protocol (MCP), combining rigorous systems design with practical, scalable software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bradshawasher&label=Profile%20views&color=0e75b6&style=flat" alt="bradshawasher" /> </p>
 
