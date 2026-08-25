@@ -2,7 +2,7 @@
 
 # Hey, I'm Brad Asher &#128075;
 
-### Computer Science student at the University of Washington &middot; Systems, data, and agentic AI
+### Computer Science student at the University of Washington &middot; AI Systems, Cloud Infrastructure &amp; Full-Stack SWE
 
 <a href="https://bradshaw-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Brad's website" /></a>
 <a href="https://drive.google.com/file/d/1dsj8OMIERZ3fkSp0wQWqz9o0P4k4KfF7/view?usp=sharing"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-5B21B6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Brad's Résumé" /></a>
@@ -16,7 +16,7 @@
 
 ## About me
 
-I'm an incoming **Computer Science Direct to Major** freshman in the **Interdisciplinary Honors Program** at the University of Washington. I enjoy turning difficult problems into dependable systems&mdash;especially at the intersection of backend data architecture, cloud infrastructure, and autonomous AI agents.
+I'm an incoming **Computer Science Direct to Major** freshman in the **Interdisciplinary Honors Program** at the University of Washington. I enjoy turning difficult problems into dependable systems&mdash;especially at the intersection of scalable backend systems, cloud infrastructure, and autonomous AI agents.
 
 - &#128188; **[MergeWorks Financial Due Diligence Engine](https://github.com/BradshawAsher/MergeWorks-Financial-Due-Diligence)** &mdash; Flagship autonomous M&A intelligence platform automating Pre-LOI Valuation Discovery & Post-LOI Deal Negotiation with multi-modal VDR ingestion, deterministic accounting reconciliation, and n8n cloud agent orchestration *(React 19, TypeScript, PostgreSQL, Supabase, Cloudflare, n8n)*
 - &#127912; **[AI Art Companion](https://github.com/BradshawAsher/ai-art-companion)** &mdash; Neurodivergent-accessible visual art critique & learning companion built with my brother, featuring multi-tiered Google Gemini vision/text fallback chains, interactive canvas critiques, and sensory-friendly UX *(React, Bun, Supabase, Tailwind CSS)*
