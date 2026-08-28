@@ -18,7 +18,7 @@
 
 ## About me
 
-I'm a **Computer Science Direct to Major** student with **junior academic standing** in the **Interdisciplinary Honors Program** at the University of Washington. My graduation timeline is flexible: I could **graduate by 2028** if needed to meet internship program requirements. I enjoy turning difficult problems into dependable systems&mdash;especially at the intersection of scalable backend systems, cloud infrastructure, and autonomous AI agents.
+I'm a **Computer Science Direct to Major** student with **junior academic standing** at the University of Washington. My graduation timeline is flexible: I could **graduate by 2028** if needed to meet internship program requirements. I enjoy turning difficult problems into dependable systems&mdash;especially at the intersection of scalable backend systems, cloud infrastructure, and autonomous AI agents.
 
 - &#128188; **[Dillon AI](https://github.com/BradshawAsher/dillon-ai)** &mdash; Financial due diligence agent automating Pre-LOI Valuation Discovery & Post-LOI Deal Negotiation with multi-modal VDR ingestion, deterministic accounting reconciliation, and n8n cloud agent orchestration *(React 19, TypeScript, PostgreSQL, Supabase, Cloudflare, n8n)*
 - &#127912; **[AI Art Companion](https://github.com/BradshawAsher/ai-art-companion)** &mdash; Neurodivergent-accessible visual art critique & learning companion built with my brother, featuring multi-tiered Google Gemini vision/text fallback chains, interactive canvas critiques, and sensory-friendly UX *(React, Bun, Supabase, Tailwind CSS)*
