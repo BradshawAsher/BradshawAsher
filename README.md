@@ -2,9 +2,9 @@
 
 # Hey, I'm Brad Asher &#128075;
 
-### Computer Science student at the University of Washington &middot; AI Systems, Cloud Infrastructure &amp; Full-Stack SWE
+### Computer Science at the University of Washington &middot; Software Engineering, Systems, Infrastructure &amp; AI
 
-**Junior academic standing &middot; Could graduate by 2028 to meet internship program requirements**
+**Junior standing (90 credits) &middot; Expected graduation February 2029**
 
 <a href="https://bradshaw-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Brad's website" /></a>
 <a href="https://drive.google.com/file/d/1dsj8OMIERZ3fkSp0wQWqz9o0P4k4KfF7/view"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-5B21B6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Brad's Résumé" /></a>
@@ -18,13 +18,13 @@
 
 ## About me
 
-I'm a **Computer Science Direct to Major** student with **junior academic standing** at the University of Washington. My graduation timeline is flexible: I could **graduate by 2028** if needed to meet internship program requirements. I enjoy turning difficult problems into dependable systems&mdash;especially at the intersection of scalable backend systems, cloud infrastructure, and autonomous AI agents.
+I'm a **B.S. Computer Science** student with **junior standing (90 credits)** at the University of Washington, expecting to graduate in **February 2029**. I build high-performance software systems and reliable AI infrastructure&mdash;from crash-resilient storage engines and L7 inference routers to multimodal financial due diligence agents.
 
-- &#128188; **[Dillon AI](https://github.com/BradshawAsher/dillon-ai)** &mdash; Financial due diligence agent automating Pre-LOI Valuation Discovery & Post-LOI Deal Negotiation with multi-modal VDR ingestion, deterministic accounting reconciliation, and n8n cloud agent orchestration *(React 19, TypeScript, PostgreSQL, Supabase, Cloudflare, n8n)*
-- &#127912; **[AI Art Companion](https://github.com/BradshawAsher/ai-art-companion)** &mdash; Neurodivergent-accessible visual art critique & learning companion built with my brother, featuring multi-tiered Google Gemini vision/text fallback chains, interactive canvas critiques, and sensory-friendly UX *(React, Bun, Supabase, Tailwind CSS)*
-- &#128269; **[AWS AI File Analyzer](https://github.com/BradshawAsher/aws-file-analyzer)** &mdash; Full-stack intelligent document analysis platform with automated metadata extraction *(React, C# / .NET 8, Azure SQL, AWS)*
-- &#129504; Exploring **agentic AI**, **Model Context Protocol (MCP)**, and workflow orchestration with **n8n**
-- &#129514; Prototyped research tools with the UW UbiComp Lab; currently a MergeWorks AI Co-Builder Fellow
+- &#128188; **[Dillon AI](https://github.com/BradshawAsher/dillon-ai)** &mdash; Autonomous multimodal financial due diligence agent and conversational deal copilot, achieving 98% extraction accuracy across a 78-document benchmark with deterministic financial math and multi-provider model routing *(React 19, TypeScript, PostgreSQL, Supabase, Cloudflare R2, n8n)*
+- &#128451; **[LSM-Tree Key-Value Storage Engine](https://github.com/BradshawAsher/lsm-tree)** &mdash; Crash-resilient embedded storage engine with a CRC32-framed write-ahead log, lock-free SkipList MemTable, Bloom filters, LRU block caching, and live tombstone pruning *(Rust, Crossbeam, Criterion)*
+- &#9889; **[L7 Prefix-Caching Router](https://github.com/BradshawAsher/prefix-caching-proxy)** &mdash; Asynchronous inference reverse proxy that reduced P95 time to first token by 88.3% using compressed-radix-tree prefix matching, bidirectional SSE streaming, and dynamic worker load balancing *(Rust, Tokio, Axum, vLLM)*
+- &#129504; **Summer 2026:** Intern &amp; Co-Builder at MergeWorks and AI Engineering Fellow at CodePath
+- &#129514; Previously interned with the **UW UbiComp Lab**, building cognitive assessment software and co-authoring empirical research
 - &#129309; Open to AI projects, research collaborations, and internship opportunities
 - &#128196; [View my r&eacute;sum&eacute;](https://drive.google.com/file/d/1dsj8OMIERZ3fkSp0wQWqz9o0P4k4KfF7/view)
 
@@ -32,7 +32,7 @@ I'm a **Computer Science Direct to Major** student with **junior academic standi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cs,java,react,nextjs,nodejs,express,vite,bun,tailwind,dotnet,aws,azure,supabase,postgres,mysql,mongodb,docker,git,linux&perline=11" alt="TypeScript, JavaScript, Python, C Sharp, Java, React, Next.js, Node.js, Express, Vite, Bun, Tailwind CSS, .NET, AWS, Azure, Supabase, PostgreSQL, MySQL, MongoDB, Docker, Git, and Linux" />
+<img src="https://skillicons.dev/icons?i=rust,ts,js,python,cs,java,react,nextjs,nodejs,express,vite,tailwind,dotnet,aws,azure,gcp,cloudflare,supabase,postgres,docker,git,linux&perline=11" alt="Rust, TypeScript, JavaScript, Python, C Sharp, Java, React, Next.js, Node.js, Express, Vite, Tailwind CSS, .NET, AWS, Azure, Google Cloud, Cloudflare, Supabase, PostgreSQL, Docker, Git, and Linux" />
 
 </div>
 
@@ -40,9 +40,9 @@ I'm a **Computer Science Direct to Major** student with **junior academic standi
 
 | Area | What I'm interested in |
 | --- | --- |
-| **Agentic AI & LLMs** | Multi-model fallback routing, Model Context Protocol (MCP), autonomous diligence agents, and n8n workflow orchestration |
-| **Backend & Cloud Systems** | Deterministic financial math engines, high-throughput VDR pipelines, Supabase / PostgreSQL, and edge caching |
-| **Applied Research & Accessibility** | Neurodivergent-adapted interfaces, human-in-the-loop AI workflows, and multimodal assistive tools |
+| **High-Performance Systems** | Concurrent Rust, storage engines, write-ahead logging, LSM trees, caching, and performance benchmarking |
+| **AI Systems & Inference** | Agent tool calling, RAG, vLLM serving, prefix caching, multi-provider routing, and deterministic guardrails |
+| **Backend & Cloud Infrastructure** | Real-time data pipelines, PostgreSQL / Supabase, Cloudflare Workers and R2, WebSockets, and distributed resilience |
 
 ## Let's connect
 
