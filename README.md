@@ -7,7 +7,7 @@
 **Junior standing (90 credits) &middot; Expected graduation February 2029**
 
 <a href="https://bradshaw-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Brad's website" /></a>
-<a href="https://drive.google.com/file/d/1dsj8OMIERZ3fkSp0wQWqz9o0P4k4KfF7/view"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-5B21B6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Brad's Résumé" /></a>
+<a href="https://drive.google.com/file/d/1TEP7xTf4J03X3sktomo26tuBHqHKIJJe/view?usp=sharing"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-5B21B6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Brad's Résumé" /></a>
 <a href="https://www.linkedin.com/in/bradshaw-asher-74a7891ab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://scholar.google.com/citations?user=QsBdyKIAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="mailto:bradshin231@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Brad" /></a>
@@ -26,7 +26,7 @@ I'm a **B.S. Computer Science** student with **junior standing (90 credits)** at
 - &#129504; **Summer 2026:** Intern &amp; Co-Builder at MergeWorks and AI Engineering Fellow at CodePath
 - &#129514; Previously interned with the **UW UbiComp Lab**, building cognitive assessment software and co-authoring empirical research
 - &#129309; Open to AI projects, research collaborations, and internship opportunities
-- &#128196; [View my r&eacute;sum&eacute;](https://drive.google.com/file/d/1dsj8OMIERZ3fkSp0wQWqz9o0P4k4KfF7/view)
+- &#128196; [View my r&eacute;sum&eacute;](https://drive.google.com/file/d/1TEP7xTf4J03X3sktomo26tuBHqHKIJJe/view?usp=sharing)
 
 ## What I work with
 
