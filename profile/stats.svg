@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Bradshaw Asher&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 1447, Total PRs: 8, Total Issues: 0, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 1449, Total PRs: 8, Total Issues: 0, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 192.87582913476277;
+        stroke-dashoffset: 192.87163696482918;
       }
     }
   
