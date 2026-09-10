@@ -4,7 +4,7 @@
 
 ### Computer Science at the University of Washington &middot; Software Engineering, Systems, Infrastructure &amp; AI
 
-**Junior standing (90 credits) &middot; Expected graduation February 2029**
+**Junior standing**
 
 <a href="https://bradshaw-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Brad's website" /></a>
 <a href="https://drive.google.com/file/d/1TEP7xTf4J03X3sktomo26tuBHqHKIJJe/view?usp=sharing"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-5B21B6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Brad's Résumé" /></a>
@@ -18,7 +18,7 @@
 
 ## About me
 
-I'm a **B.S. Computer Science** student with **junior standing (90 credits)** at the University of Washington, expecting to graduate in **February 2029**. I build high-performance software systems and reliable AI infrastructure&mdash;from crash-resilient storage engines and L7 inference routers to multimodal financial due diligence agents and multi-cloud document intelligence platforms.
+I'm a **B.S. Computer Science** student with **junior standing** at the University of Washington. I build high-performance software systems and reliable AI infrastructure&mdash;from crash-resilient storage engines and L7 inference routers to multimodal financial due diligence agents and multi-cloud document intelligence platforms.
 
 - &#128188; **[Dillon AI](https://github.com/BradshawAsher/dillon-ai)** &mdash; Autonomous multimodal financial due diligence agent and conversational deal copilot, achieving 98% extraction accuracy across a 78-document benchmark with deterministic financial math and multi-provider model routing *(React 19, TypeScript, PostgreSQL, Supabase, Cloudflare R2, n8n)*
 - &#128451; **[LSM-Tree Key-Value Storage Engine](https://github.com/BradshawAsher/lsm-tree)** &mdash; Crash-resilient embedded storage engine with a CRC32-framed write-ahead log, lock-free SkipList MemTable, Bloom filters, LRU block caching, and live tombstone pruning *(Rust, Crossbeam, Criterion)*
