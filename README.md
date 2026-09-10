@@ -18,11 +18,12 @@
 
 ## About me
 
-I'm a **B.S. Computer Science** student with **junior standing (90 credits)** at the University of Washington, expecting to graduate in **February 2029**. I build high-performance software systems and reliable AI infrastructure&mdash;from crash-resilient storage engines and L7 inference routers to multimodal financial due diligence agents.
+I'm a **B.S. Computer Science** student with **junior standing (90 credits)** at the University of Washington, expecting to graduate in **February 2029**. I build high-performance software systems and reliable AI infrastructure&mdash;from crash-resilient storage engines and L7 inference routers to multimodal financial due diligence agents and multi-cloud document intelligence platforms.
 
 - &#128188; **[Dillon AI](https://github.com/BradshawAsher/dillon-ai)** &mdash; Autonomous multimodal financial due diligence agent and conversational deal copilot, achieving 98% extraction accuracy across a 78-document benchmark with deterministic financial math and multi-provider model routing *(React 19, TypeScript, PostgreSQL, Supabase, Cloudflare R2, n8n)*
 - &#128451; **[LSM-Tree Key-Value Storage Engine](https://github.com/BradshawAsher/lsm-tree)** &mdash; Crash-resilient embedded storage engine with a CRC32-framed write-ahead log, lock-free SkipList MemTable, Bloom filters, LRU block caching, and live tombstone pruning *(Rust, Crossbeam, Criterion)*
 - &#9889; **[L7 Prefix-Caching Router](https://github.com/BradshawAsher/prefix-caching-proxy)** &mdash; Asynchronous inference reverse proxy that reduced P95 time to first token by 88.3% using compressed-radix-tree prefix matching, bidirectional SSE streaming, and dynamic worker load balancing *(Rust, Tokio, Axum, vLLM)*
+- &#9729;&#65039; **[AWS &amp; Multi-Cloud AI File Analyzer](https://github.com/BradshawAsher/aws-file-analyzer)** &mdash; Production 4-cloud document intelligence platform (Cloudflare, Azure, AWS, GCP) with direct-to-S3 presigned ingestion under a $0/mo serverless cost ceiling, Gemini multimodal extraction into structured JSON schemas, and a cascading multi-tier fallback chain &mdash; validated across 65 automated tests *(React 19, .NET 8, AWS S3, Azure SQL, Gemini, Cloudflare Pages, Playwright)*
 - &#129504; **Summer 2026:** Intern &amp; Co-Builder at MergeWorks and AI Engineering Fellow at CodePath
 - &#129514; Previously interned with the **UW UbiComp Lab**, building cognitive assessment software and co-authoring empirical research
 - &#129309; Open to AI projects, research collaborations, and internship opportunities
